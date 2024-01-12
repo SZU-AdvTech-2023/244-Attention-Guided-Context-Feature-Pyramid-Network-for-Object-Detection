@@ -1,0 +1,6 @@
+@article{REPO244,
+    author = "Cao, Junxu and Chen, Qi and Guo, Jun and Shi, Ruichao",
+    journal = "arXiv preprint arXiv:2005.11475",
+    title = "{Attention-Guided Context Feature Pyramid Network for Object Detection}",
+    year = "2020"
+}
